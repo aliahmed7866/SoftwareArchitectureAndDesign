@@ -13,5 +13,6 @@ The examples require access to codecarbon. To install (see https://mlco2.github.
 
 NB on Debian for Python3 use `pip3` in place of `pip`
 
+Debian refers to a type of Linux Distros
 
 
